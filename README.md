@@ -366,7 +366,7 @@ DEBUG = 'DEVELOPMENT' in os.environ
 25. Go to settings in Heroku and perform a manual deployment and check for any issues.
 36. Go to Heroku settings, enable automatic deployments.
 
-## Credits
+### Credits
 - The Code Institute 'I Think, Therefore I Blog' walkthrough project assisted and guided in the setup and basic structure of this project.
 - The Stockbook Project by Massimo Ranalli assisted with the setup of the edit/delete functions for comments as well as the messaging alerts.
 - Seaside Sewing by Kera Kudmore was a great source of inspiration and best practice regarding testing and README structure.
@@ -380,7 +380,7 @@ DEBUG = 'DEVELOPMENT' in os.environ
 - The icons for the favicon, footer, about page and location headings were taken from [Font Awesome](https://fontawesome.com/).
 - The favicon image was converted using [Favicon.io](https://favicon.io/).
 
-## Acknowledgements
+### Acknowledgements
 - Thank you to my mentor for continuous helpful feedback and support throughout the project.
 - The tutors at Code Institute for their patience and support.
 - The Code Institute Slack community for tips and guidance.
